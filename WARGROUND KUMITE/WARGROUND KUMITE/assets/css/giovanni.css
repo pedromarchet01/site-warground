@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+  background-image:linear-gradient(to top,#0a0a0a,#ac0303,#0a0a0a);
+  background-attachment: fixed;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+  color: beige;
+  text-align: center;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+h3 {
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-align: center;
+  text-indent: 20px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+

@@ -1,0 +1,179 @@
+@charset "UTF-8";
+
+body{
+  background-image:linear-gradient(to top,#0a0a0a,#ac0303,#0a0a0a);
+  background-attachment: fixed;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+  a{
+    text-align: center;
+    color: beige;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:visited{
+    color: #790202da ;
+  }
+  
+  a:hover{
+    color:#a70303 ;
+    text-decoration: underline;
+  }
+  
+  a:active{
+    color: rgb(34, 34, 33);
+  }
+
+
+  
+
+h3 {
+  color: beige;
+  text-shadow:1px 1px 1px #000000da ;
+  text-align:center;
+  text-indent: 20px;
+  font-weight:bold;
+  font-size:normal;
+  font-style: italic;
+}
+
+h3.nomepersonagem{
+  color:#a70303;
+  text-shadow:2px 2px 2px #790202da 
+}
+
+div.linha1{
+  margin-left:60px;
+  text-align: center;
+}
+
+div.linha2{
+  margin-left:60px;
+  text-align: center;
+}
+
+div.linha3{
+  margin-left:60px;
+  text-align: center;
+}
+
+
+
+div.d1{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto; 
+  display: inline-block;                                                   
+}
+
+div.d2{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d3{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d4{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d5{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d6{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d7{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d8{
+  background-attachment: fixed;
+  background-color: aliceblue;
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+div.d9{
+  background-attachment: fixed;
+  background-color: rgba(240, 248, 255, 0.973);
+  box-shadow: 5px 13px 13px ;                                                                
+  border-radius:10px;                                               
+  width: 307px;                                                   
+  padding:10px;                                                  
+  margin:auto;  
+  display: inline-block;                                                   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

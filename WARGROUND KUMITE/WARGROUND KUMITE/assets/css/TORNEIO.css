@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+body{
+  background-image:linear-gradient(to top,#0a0a0a,#ac0303,#0a0a0a);
+  background-attachment: fixed;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main{
+  text-align: center;
+}
+
+h1{
+  color: beige;
+  text-align: center;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+div.titulo{
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-indent:30px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+  text-align: center;
+}
+
+h2{
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-indent:30px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+h3 {
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-align: center;
+  text-indent: 20px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+div.primario {
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-align: center;
+  text-indent: 20px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+div.secundario {
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-align: center;
+  text-indent: 20px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+div.terceario {
+  color: beige;
+  text-shadow:1px 1px 0px #000000da  ;
+  text-align: center;
+  text-indent: 20px;
+  font-weight:normal;
+  font-size:normal;
+  font-style: italic;
+}
+
+img.primeiro {
+text-align: center;
+}
+
